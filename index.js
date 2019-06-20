@@ -23,8 +23,10 @@ function sayHiToGrandma(string){
 }
 
 function whisper(string){
-  if string === lowercase
-  return string === string.toLowerCase
+  } if(string === lowercase) {
+    return string 
+  } else(string.toLowerCase)
+    return 
 }
 
 function logWhisper(string){
