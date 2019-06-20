@@ -9,17 +9,15 @@ function logShout(string) {
 var lowercase = 'hello!';
 lowercase.toLowerCase() === lowercase;
 
+var uppercase = "HELLO!"
+uppercase.toUpperCase() === uppercase
+
+
 function sayHiToGrandma(string){
     if (string === lowercase)
       return "I can't hear you!"
+    else (string === uppercase)
+      return "YES INDEED!"
 }
 
 
-var uppercase = "HELLO!"
- 
-uppercase.toUpperCase() === uppercase
-
-function sayHiToGrandma(string){
-  if (string === uppercase)
-    return "YES INDEED!"
-}
