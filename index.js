@@ -22,7 +22,7 @@ function sayHiToGrandma(string){
       return "I love you, too."
       
 function whisper(string){
-  return string.toLowerCase
+  return (string.toLowerCase)
 }
 
 function logWhisper(string){
