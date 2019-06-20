@@ -18,6 +18,8 @@ function sayHiToGrandma(string){
       return "I love you, too."
 }
 
+
+
 function whisper(string){
   if (string === lowercase)
   return string
