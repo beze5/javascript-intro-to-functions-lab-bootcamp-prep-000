@@ -23,6 +23,7 @@ function sayHiToGrandma(string){
 }
 
 function whisper(string){
+  if string === lowercase
   return string === string.toLowerCase
 }
 
