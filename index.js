@@ -15,11 +15,11 @@ uppercase.toUpperCase() === uppercase
 
 function sayHiToGrandma(string){
     if (string === "I love you, Grandma.")
-      return "I love you, too."
+      return "I love you, too.";
       else if (string === uppercase)
-        return "YES INDEED!"
-      else (string === lowercase) { 
-      return ("I can't hear you!")
+        return "YES INDEED!";
+      else (string === lowercase);
+      return ("I can't hear you!");
 }
 
 
