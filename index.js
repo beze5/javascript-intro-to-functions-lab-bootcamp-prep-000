@@ -14,12 +14,12 @@ uppercase.toUpperCase() === uppercase
 
 
 function sayHiToGrandma(string){
-    if (string === "I love you, Grandma."){
-      return "I love you, too."}
-    else if (string.toUpperCase()){
-      return 'YES INDEED!'}
-    else (string === string.toLowerCase())
-      return ("I can't hear you!")
+    if (string === "I love you, Grandma.")
+      return "I love you, too.";
+    else if (string.toUpperCase())
+      return 'YES INDEED!';
+    else (string === string.toLowerCase());
+      return ("I can't hear you!");
 }
 
 
